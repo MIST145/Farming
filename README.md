@@ -1,6 +1,9 @@
-# 🌿 CozyCode Fivem Farming Script
+# 🌿 CozyCode Fivem Farming Script  
 
-![CozyCode Farming](https://i.imgur.com/yPpsc4W.png)
+![CozyCode Farming](https://i.imgur.com/yPpsc4W.png)  
+
+## 🎥 Video Preview  
+[![Watch the video](https://img.youtube.com/vi/1dGEOo7pZa8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dGEOo7pZa8)  
 
 ## ✨ Features  
 - ✅ **Free & Fully Open Source**  
@@ -14,6 +17,5 @@
 ## 📜 About  
 A free, fully open-source script for **FiveM roleplay servers**. We created this script to provide a **simple, easy-to-use** farming system with a **modern, clean UI**. Enjoy growing and selling plants with a smooth and immersive experience.  
 
----
-📌 if you use our script for youtube, github or anything you must leave us credit as the original creator! 
-
+---  
+📌 If you use our script for YouTube, GitHub, or any other platform, you must leave us credit as the original creator!  
