@@ -1,6 +1,6 @@
 # 🌿 CozyCode Fivem Farming Script  
 
-![CozyCode Farming](https://i.imgur.com/yPpsc4W.png)  
+
 
 ## 🎥 Video Preview  
 [![Watch the video](https://img.youtube.com/vi/1dGEOo7pZa8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dGEOo7pZa8)  
