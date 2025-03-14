@@ -9,6 +9,8 @@ discord 'https://discord.gg/4cW6DR5q2U'
 shared_scripts {
 	"@ox_lib/init.lua",
 	"config.lua",
+	"bridge/**/*.lua",
+	"bridge/esx/*.lua",
 	"bridge/qb/*.lua",
 	"modules/**/shared.lua",
 	"core/shared.lua",
@@ -17,12 +19,15 @@ shared_scripts {
 }
 
 client_scripts {
+	"bridge/**/*.lua",
+	"bridge/esx/*.lua",
 	"bridge/qb/client.lua",
 	"modules/**/client.lua",
 	"core/client.lua"
 }
 
 server_scripts {
+	"bridge/**/*.lua",
 	"bridge/qb/server.lua",
 	"modules/**/server.lua",
 	"core/server.lua"
