@@ -1,6 +1,6 @@
 # 🌿 CozyCode Fivem Farming Script  
 
-Our website [https:](http://cozy-coding.com//)
+Our [website](http://cozy-coding.com//)
 
 
 
